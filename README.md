@@ -11,6 +11,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lapaho8645&show_icons=true&theme=dark)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lapaho8645)](https://solved.ac/lapaho8645/)
+
 <!--
 **lapaho8645/lapaho8645** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
