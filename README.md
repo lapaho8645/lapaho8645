@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/qkrwltn5532@gmail.com-4285F4?style=flat-square&logo=Google&logoColor=white"/></a>
 </p>
 
-안녕하세요. 박지수입니다.
+안녕하세요. 박지수입니다!
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lapaho8645&show_icons=true&theme=dark)
